@@ -4,7 +4,7 @@
 
 ## 最新版本下载
 
-[下载 v2.1 发行版 ZIP](https://github.com/353753640/YOLO-Annotate/releases/latest/download/YOLO自动标注_发行版_v2.1_2026-08-13.zip)
+[下载 v2.1 发行版 ZIP](https://github.com/353753640/YOLO-Annotate/releases/latest/download/YOLO-Annotate-v2.1.zip)
 
 下载后解压，双击 YOLO自动标注\YOLO自动标注.exe 即可运行，无需安装 Python。
 
