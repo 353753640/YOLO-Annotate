@@ -1,0 +1,6 @@
+﻿__pycache__/
+*.py[cod]
+runs/
+build/
+dist/
+发行包/
